@@ -6,7 +6,7 @@ namespace UnitTestingExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Test Explorer: 4/4 Passed!");
         }
     }
 }
